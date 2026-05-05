@@ -18,8 +18,8 @@
     "typescript": "^3.3.3"
   },
   "dependencies": {
-    "@azure/msal-node": "^1.0.3",
-    "@azure/service-bus": "^7.0.5",
+    "@azure/msal-node": "^5.1.5",
+    "@azure/service-bus": "^7.9.5",
     "node-fetch": "^2.6.1"
   }
 }
