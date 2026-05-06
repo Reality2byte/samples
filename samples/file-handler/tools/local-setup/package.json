@@ -16,7 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@azure/msal-node": "^1.0.0-alpha.8",
+    "@azure/msal-node": "^1.18.4",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
